@@ -1,0 +1,34 @@
+{
+  "name": "vermeersch-youtube-bot",
+  "version": "1.0.0",
+  "description": "a handy discord bot for youtube utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon",
+    "dev":"node index.js",
+    "debug":"nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VermeerschRemi/Vermeersch-Youtube-Bot.git"
+  },
+  "keywords": [
+    "yt",
+    "youtube",
+    "discord",
+    "bot"
+  ],
+  "author": "Rémi Vermeersch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VermeerschRemi/Vermeersch-Youtube-Bot/issues"
+  },
+  "homepage": "https://github.com/VermeerschRemi/Vermeersch-Youtube-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
