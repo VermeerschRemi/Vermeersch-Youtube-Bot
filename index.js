@@ -24,7 +24,7 @@ bot.commands = new discord.Collection();
 
 //ID'S
 
-var steenId = "375685267446824972";
+var steenId = "107203340705767424";
 var KingID =  "323899208627126272";
 var trashChannel = "Sossen";
 var botChannel = "bot-kanaal";
